@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.prepicofeed.prepicofeed"
+    namespace = "com.prep.prepicofeed"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
